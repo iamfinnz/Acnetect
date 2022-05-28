@@ -1,0 +1,46 @@
+{
+  "daftar_acne": [
+    {
+      "nama": "Blackhead ",
+      "penyebab": "Penyebab: Tidak menjaga kebersihan wajah",
+      "solusi": "Solusi: Menggunakan toner BHA",
+      "penjelasan": "Berbeda dengan komedo putih, jenis jerawat yang ini adalah komedo yang naik ke permukaan kulit dan terjadi oksidasi sehingga terlihat terbuka dan menghitam. Komedo hitam sendiri bisa muncul di mana saja dan mudah sekali dikeluarkan dengan tangan kosong. Jenis jerawat ini bisa muncul karena tidak menjaga kebersihan wajah dan konsumsi obat-obatan tertentu. Jangan lupa untuk menggunakan toner BHA agar komedo hitam lebih mudah keluar dengan sendirinya.",
+      "img": "https://image.ibb.co/cexrRK/a_h_nasution.jpg"
+    },
+    {
+      "nama": "Whitehead",
+      "penyebab": "Penyebab: Perubahan hormon",
+      "solusi": "Solusi: Menggunakan toner AHA",
+      "penjelasan": "Komedo sendiri adalah cikal jerawat karena terbentuk dari minyak dan sel kulit mati yang menyumbat pori-pori. Whitehead sendiri terlihat seperti benjolan kecil berwarna putih yang tidak bisa dikeluarkan dengan mudah. Salah satu penyebab munculnya jenis jerawat ini adalah karena perubahan hormon sehingga sering ditemui di masa purbertas remaja dan mendekati haid saat produksi sebum meningkat. Biasanya jenis jerawat ini sering ditemui di dagu dan garis rahang.",
+      "img": "https://image.ibb.co/cexrRK/a_h_nasution.jpg"
+    },
+    {
+      "nama": "Pustule",
+      "penyebab": "Penyebab: Komedo yang mengalami peradangan",
+      "solusi": "Solusi: Menggunakan acne patch",
+      "penjelasan": "Nah yang jenis jerawat yang ini mirip dengan papula, sama-sama terbentuk dari komedo yang meradang. Namun, jenis jerawat ini biasanya diikuti dengan benjolan dasar yang merah dan ujung kepala jerawat yang putih. Kepala putih tersebut adalah nanah yang terbentuk karena darah putih berusaha melawan bakteri di dalam kulit. Pastinya jenis jerawat ini rentan membuat kulit terasa sakit dan nyeri",
+      "img": "https://image.ibb.co/cexrRK/a_h_nasution.jpg"
+    },
+    {
+      "nama": "Papule",
+      "penyebab": "Penyebab: Komedo yang mengalami peradangan",
+      "solusi": "Solusi: Menggunakan serum BHA atau tea tree",
+      "penjelasan": "Sering menjumpai jenis jerawat yang tampak bengkak dan kemerahan tanpa mata? Eits, ini namanya bukan jerawat yang belum matang ya! Melainkan jerawat papula. Jerawat ini muncul karena adanya peradangan yang membuat kulit tampak bengkak dan merah. Biasanya, jerawat ini disebabkan oleh komedo yang mengalami peradangan dan tertekan oleh folikel rambut kemudian dinding folikel pecah. Apa bila hal ini terjadi, sebum dan bakteri yang yang terperangkap akan menyebar ke jaringan sekitar, menyebabkan infeksi yang memicu lesi, bengkak, kemerahan, dan rasa nyeri pada jerawat. ",
+      "img": "https://image.ibb.co/cexrRK/a_h_nasution.jpg"
+    },
+    {
+      "nama": "Nodule",
+      "penyebab": "Penyebab: Penyumbatan pori akibat penumpukan sel kulit mati",
+      "solusi": "Solusi: Ada baiknya berkonsultasi dengan dokter",
+      "penjelasan": "Punya jerawat yang terasa nyeri sekali bahkan saat tidak disentuh? Kamu perlu berhati-hati saat memiliki jenis jerawat nodul! Kondisi ini bisa dibilang cukup serius karena peradangan telah menembus ke lapisan kulit yang lebih dalam. Tidak sedikit pembentukan lesi lebih padat dan lebih besar hingga terasa sangat nyeri dan membandel.",
+      "img": "https://image.ibb.co/cexrRK/a_h_nasution.jpg"
+    },
+    {
+      "nama": "Cystic",
+      "penyebab": "Penyebab: Infeksi bakteri di lapisan teratas kulit",
+      "solusi": "Solusi: Segera berkonsultasi dengan dokter kulit",
+      "penjelasan": "Terdengar seram ya? Namun jenis jerawat yang satu ini memang gak main-main! Sanking besar lesi dan peradangan, biasanya benjolan besar terbentuk sehingga di kulti terlihat seperti kumpulan beberapa jerawat yang menjadi jerawat raksasa. Nyatanya jerawat ini biasanya hanya satu dan membengkak akibat infeksi bakteri di lapisan teratas kulit sehingga membentuk kista yang berisi nanah.",
+      "img": "https://image.ibb.co/cexrRK/a_h_nasution.jpg"
+    }
+  ]
+}
