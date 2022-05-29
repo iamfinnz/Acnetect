@@ -44,4 +44,6 @@
     <string name="solusi">Solusi</string>
     <string name="penyebab">Penyebab</string>
     <string name="nama_acne">Nama Acne</string>
+    <string name="don_t_have_an_account_register">Don\'t have an account? Register</string>
+    <string name="have_an_account_login">Have an account? Login</string>
 </resources>

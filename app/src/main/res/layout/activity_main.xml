@@ -48,7 +48,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginStart="@dimen/normal_100"
                             android:layout_marginTop="@dimen/normal_200"
-                            android:fontFamily="@font/gilroybold"
+                            android:fontFamily="@font/gilroyregular"
                             android:text="@string/hello"
                             android:textColor="@color/white"
                             android:textSize="@dimen/normal_150"

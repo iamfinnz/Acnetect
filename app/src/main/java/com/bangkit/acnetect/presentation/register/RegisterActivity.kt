@@ -8,6 +8,7 @@ import android.util.Patterns
 import androidx.appcompat.app.AlertDialog
 import com.bangkit.acnetect.R
 import com.bangkit.acnetect.databinding.ActivityRegisterBinding
+import com.bangkit.acnetect.presentation.login.LoginActivity
 import com.bangkit.acnetect.model.User
 import com.bangkit.acnetect.utils.hideSoftKeyboard
 import com.bangkit.acnetect.utils.showDialogError
@@ -16,6 +17,7 @@ import com.bangkit.acnetect.utils.showDialogSuccess
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.database.DatabaseReference
 import com.google.firebase.database.FirebaseDatabase
+import org.jetbrains.anko.startActivity
 import org.jetbrains.anko.toast
 
 class RegisterActivity : AppCompatActivity() {
@@ -54,6 +56,10 @@ class RegisterActivity : AppCompatActivity() {
                     hideSoftKeyboard(this@RegisterActivity, registerBinding.root)
                     registerToServer(name, email, pass)
                 }
+            }
+
+            btnLogin.setOnClickListener {
+                startActivity<LoginActivity>()
             }
         }
     }

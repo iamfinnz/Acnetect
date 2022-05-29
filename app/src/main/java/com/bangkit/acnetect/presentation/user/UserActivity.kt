@@ -63,6 +63,10 @@ class UserActivity : AppCompatActivity() {
         userBinding.apply {
             btnCloseUser.setOnClickListener { finish() }
 
+            btnChangeLanguageUser.setOnClickListener {
+                startActivity(Intent(ACTION_LOCALE_SETTINGS))
+            }
+
             btnChangePasswordUser.setOnClickListener {
                 startActivity<ChangePasswordActivity>()
             }
