@@ -47,8 +47,8 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginStart="@dimen/normal_100"
-                            android:layout_marginTop="@dimen/normal_200"
-                            android:fontFamily="@font/gilroyregular"
+                            android:layout_marginTop="@dimen/normal_100"
+                            android:fontFamily="@font/gilroybold"
                             android:text="@string/hello"
                             android:textColor="@color/white"
                             android:textSize="@dimen/normal_150"
@@ -61,7 +61,7 @@
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
                             android:layout_marginStart="@dimen/small_100"
-                            android:layout_marginTop="@dimen/normal_200"
+                            android:layout_marginTop="@dimen/normal_100"
                             android:layout_marginEnd="@dimen/normal_100"
                             android:fontFamily="@font/gilroybold"
                             android:text="@string/default_text"
@@ -69,7 +69,21 @@
                             android:textSize="@dimen/normal_150"
                             app:layout_constraintStart_toEndOf="@id/text_view_welcome_home"
                             app:layout_constraintTop_toTopOf="parent"
-                            tools:text="Ilham Arifin" />
+                            tools:text="User," />
+
+                        <TextView
+                            android:id="@+id/tv_welcome"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="@dimen/normal_100"
+                            android:layout_marginEnd="@dimen/normal_100"
+                            android:fontFamily="@font/gilroybold"
+                            android:text="@string/welcome_to_acnetect"
+                            android:textColor="@color/white"
+                            android:textSize="@dimen/normal_150"
+                            app:layout_constraintStart_toStartOf="parent"
+                            app:layout_constraintTop_toBottomOf="@id/text_view_welcome_home"
+                            tools:text="Welcome to Acnetect!," />
 
                     </androidx.constraintlayout.widget.ConstraintLayout>
 
