@@ -1,46 +1,46 @@
 {
   "daftar_acne": [
     {
-      "nama": "Blackhead ",
-      "penyebab": "Penyebab: Tidak menjaga kebersihan wajah",
-      "solusi": "Solusi: Menggunakan toner BHA",
-      "penjelasan": "Berbeda dengan komedo putih, jenis jerawat yang ini adalah komedo yang naik ke permukaan kulit dan terjadi oksidasi sehingga terlihat terbuka dan menghitam. Komedo hitam sendiri bisa muncul di mana saja dan mudah sekali dikeluarkan dengan tangan kosong. Jenis jerawat ini bisa muncul karena tidak menjaga kebersihan wajah dan konsumsi obat-obatan tertentu. Jangan lupa untuk menggunakan toner BHA agar komedo hitam lebih mudah keluar dengan sendirinya.",
-      "img": "https://image.ibb.co/cexrRK/a_h_nasution.jpg"
-    },
-    {
       "nama": "Whitehead",
       "penyebab": "Penyebab: Perubahan hormon",
-      "solusi": "Solusi: Menggunakan toner AHA",
-      "penjelasan": "Komedo sendiri adalah cikal jerawat karena terbentuk dari minyak dan sel kulit mati yang menyumbat pori-pori. Whitehead sendiri terlihat seperti benjolan kecil berwarna putih yang tidak bisa dikeluarkan dengan mudah. Salah satu penyebab munculnya jenis jerawat ini adalah karena perubahan hormon sehingga sering ditemui di masa purbertas remaja dan mendekati haid saat produksi sebum meningkat. Biasanya jenis jerawat ini sering ditemui di dagu dan garis rahang.",
-      "img": "https://image.ibb.co/cexrRK/a_h_nasution.jpg"
+      "solusi": "Solusi: Menggunakan produk yang mengandung asam salisilat dan asam glikolat",
+      "penjelasan": "Whitehead atau komedo merupakan jenis jerawat dasar. Maksudnya, ketika minyak dan sel kulit bercampur dan menyumbat pori, komedo adalah hal pertama yang muncul sebelum membentuk jerawat.\n\nJika pori-pori menutup dan Anda melihat benjolan kecil yang berwarna putih atau berwarna daging, ini adalah komedo putih atau whitehead.\n\nSalah satu penyebab bentuk jerawat ini muncul adalah perubahan hormon. Pada masa-masa tertentu, yakni masa pubertas dan haid, jumlah sebum atau minyak diproduksi pori-pori Anda meningkat. Alhasil, pori-pori pun tersumbat dan memicu komedo putih.\n\nKomedo yang tertutup ini juga dapat terjadi di daerah yang mengalami banyak gesekan, seperti dagu atau garis rahang.\n\nDokter kulit Jol Schlessinger mengatakan jangan pernah mencoba menyingkirikan jerawat ini dengan memencetnya, karena itu akan menyebarkan bakteri penyebab jerawat dan menimbulkan jaringan parut.\n\nCara terbaik untuk mengatasi whitehead adalah menjaga area di sekitarnya bebas dari bakteri dan sel kulit mati. Rata-rata whitehead secara alami hilang dalam waktu sekitar satu minggu.\n\nNamun, jika jerawat ini tak segera hilang, Schlessinger merekomendasikan kita untuk mencuci wajah di pagi dan malam hari dengan pembersih wajah yang mengandung salisilat dan asam glikolat.",
+      "img": "https://i.ibb.co/GVB75Km/whitehead.jpg"
+    },
+        {
+      "nama": "Blackhead ",
+      "penyebab": "Penyebab: Tidak menjaga kebersihan wajah",
+      "solusi": "Solusi: Menggunakan produk yang mengandung retinol, retinoid atau dengan menggunakan toner BHA",
+      "penjelasan": "Blackhead atau komedo hitam merupakan jenis jerawat yang naik ke permukaan kulit, sehingga ujung jerawat berwarna hitam. Warna hitam pada ujung jerawat disebabkan oleh pigmen kulit yang meningkat, bukan karena kotoran atau debu, sehingga tidak dapat dibersihkan.\n\nSama seperti komedo putih, blackheads juga dapat muncul di mana saja, dari wajah, punggung, hingga dada. Bentuk jerawat ini juga disebabkan oleh penumpukan sel kulit mati, produksi minyak berlebih, dan bakteri yang menyumbat pori.\n\nAda beragam faktor yang memicu ketiga hal yang menjadi penyebab jerawat komedo hitam, mulai dari tidak menjaga kebersihan wajah, hingga minum obat-obatan tertentu.\n\nDokter kulit Jol Schlessinger mengatakan jenis jerawat ini harus diserahkan kepada para profesional perawatan kulit dan dokter kulit yang terlatih untuk menghindari penyebaran bakteri.\n\nDia merekomendasikan penggunaan retinol yang dijual bebas, atau obat dengan efek yang lebih kuat, seperti retinoid.\n\nRetinoid akan membantu mendorong pergantian sel dan mencegah pori-pori tersumbat karena sel-sel kulit mati dan minyak.",
+      "img": "https://i.ibb.co/HH4FMD4/blackhead1.jpg"
+    },
+        {
+      "nama": "Papule",
+      "penyebab": "Penyebab: Komedo yang mengalami peradangan",
+      "solusi": "Solusi: Menggunakan serum BHA atau tea tree",
+      "penjelasan": "Pada orang-orang yang menjumpai jerawat mereka lebih besar, ada kemungkinan jenis jerawat yang dialami yaitu jerawat papula. Papula merupakan benjolan kecil berwarna merah pada kulit.\n\nTipe jerawat yang satu ini terjadi akibat penyumbatan tidak sampai ke permukaan kulit dan sel kulit mati terus menumpuk. Akibatnya, folikel rambut pun mengalami tekanan yang dapat menyebabkan dinding folikel pecah.\n\nApabila hal tersebut terjadi, sebum dan bakteri yang terperangkap akan menyebar ke jaringan sekitar. Hal ini yang akhirnya memicu kemerahan, bengkak, dan rasa nyeri pada jerawat papula.\n\nJerawat papula biasanya muncul ketika komedo, baik komedo hitam maupun putih, dibiarkan begitu saja. Alhasil, peradangan pada komedo pun terjadi dan menyebabkan iritasi pada sel kulit di sekitarnya.\n\nSolusinya dapat menggunakan serum BHA, tea tree ataupun retinoid secara berkala agar jenis jerawat ini tidak bertambah parah.",
+      "img": "https://i.ibb.co/WP8Ts4s/papule.jpg"
     },
     {
       "nama": "Pustule",
       "penyebab": "Penyebab: Komedo yang mengalami peradangan",
       "solusi": "Solusi: Menggunakan acne patch",
-      "penjelasan": "Nah yang jenis jerawat yang ini mirip dengan papula, sama-sama terbentuk dari komedo yang meradang. Namun, jenis jerawat ini biasanya diikuti dengan benjolan dasar yang merah dan ujung kepala jerawat yang putih. Kepala putih tersebut adalah nanah yang terbentuk karena darah putih berusaha melawan bakteri di dalam kulit. Pastinya jenis jerawat ini rentan membuat kulit terasa sakit dan nyeri",
-      "img": "https://image.ibb.co/cexrRK/a_h_nasution.jpg"
-    },
-    {
-      "nama": "Papule",
-      "penyebab": "Penyebab: Komedo yang mengalami peradangan",
-      "solusi": "Solusi: Menggunakan serum BHA atau tea tree",
-      "penjelasan": "Sering menjumpai jenis jerawat yang tampak bengkak dan kemerahan tanpa mata? Eits, ini namanya bukan jerawat yang belum matang ya! Melainkan jerawat papula. Jerawat ini muncul karena adanya peradangan yang membuat kulit tampak bengkak dan merah. Biasanya, jerawat ini disebabkan oleh komedo yang mengalami peradangan dan tertekan oleh folikel rambut kemudian dinding folikel pecah. Apa bila hal ini terjadi, sebum dan bakteri yang yang terperangkap akan menyebar ke jaringan sekitar, menyebabkan infeksi yang memicu lesi, bengkak, kemerahan, dan rasa nyeri pada jerawat. ",
-      "img": "https://image.ibb.co/cexrRK/a_h_nasution.jpg"
+      "penjelasan": "Mirip dengan papula, jerawat pustula merupakan jenis jerawat yang terjadi akibat komedo yang meradang. Jerawat pustula biasanya muncul ditandai dengan benjolan dasar yang merah dan ujung kepala yang putih.\n\nSelain itu, isi jerawat pustula dipenuhi dengan nanah. Nanah tersebut menunjuk ke satu titik di kulit atasnya yang membentuk titik putih. Pustula dan papula sering muncul bersamaan dan berkumpul dalam jumlah yang banyak.\n\nJika hal ini terjadi, artinya Anda tengah mengalami jerawat dengan kondisi yang cukup parah. Pasalnya, tipe jerawat ini merupakan bagian dari penyakit yang disebut sebagai jerawat inflamasi, alias jerawat yang sudah meradang.\n\nHindari untuk memencet atau mencongkel ujung jerawat yang berisi nanah karena dapat menyebabkan bekas jerawat yang sulit hilang.\n\nGunakan saja acne patch yang akan menyedot kepala jerawat dan membentuk lapisan baru di kulit. Kamu juga bisa lho menggunakan toner AHA dan serum BHA agar jenis jerawat ini cepat hilangnya.",
+      "img": "https://i.ibb.co/WVdnQH0/pustule.jpg"
     },
     {
       "nama": "Nodule",
       "penyebab": "Penyebab: Penyumbatan pori akibat penumpukan sel kulit mati",
       "solusi": "Solusi: Ada baiknya berkonsultasi dengan dokter",
-      "penjelasan": "Punya jerawat yang terasa nyeri sekali bahkan saat tidak disentuh? Kamu perlu berhati-hati saat memiliki jenis jerawat nodul! Kondisi ini bisa dibilang cukup serius karena peradangan telah menembus ke lapisan kulit yang lebih dalam. Tidak sedikit pembentukan lesi lebih padat dan lebih besar hingga terasa sangat nyeri dan membandel.",
-      "img": "https://image.ibb.co/cexrRK/a_h_nasution.jpg"
+      "penjelasan": "Bagi Anda yang memiliki jerawat nodul mungkin perlu berhati-hati. Pasalnya, jenis jerawat yang mengalami peradangan ini termasuk kategori kondisi yang serius.\n\nPada dasarnya, penyebab jerawat yang satu ini sama seperti jerawat lainnya. Hanya saja, tipe jerawat ini terjadi akibat peradangan yang menembus hingga ke lapisan kulit lebih dalam.\n\nAkibatnya, pembentukan lesi yang lebih padat dan lebih besar pun terjadi. Bahkan, jerawat nodul disebut menimbulkan rasa nyeri yang cukup mengganggu.\n\nUsahakan untuk tidak memencet jerawat ini karena akan meninggalkan bekas jerawat yang sulit hilang nantinya.\n\nMenurut Schlessinger, Jerawat nodul bisa bertahan selama berminggu-minggu atau bahkan berbulan-bulan jika tak ada perawatan yang tepat.\n\nLalu bagaimana ya caranya menghilangkan jenis jerawat ini? Kamu bisa menggunakan BHA, tapi ada baiknya berkonsultasi dengan dokter untuk suntik jerawat atau diresepkan vitamin A poten agar jenis jerawat ini cepat musnah.",
+      "img": "https://i.ibb.co/wCg4rxY/nodule.jpg"
     },
     {
       "nama": "Cystic",
       "penyebab": "Penyebab: Infeksi bakteri di lapisan teratas kulit",
       "solusi": "Solusi: Segera berkonsultasi dengan dokter kulit",
-      "penjelasan": "Terdengar seram ya? Namun jenis jerawat yang satu ini memang gak main-main! Sanking besar lesi dan peradangan, biasanya benjolan besar terbentuk sehingga di kulti terlihat seperti kumpulan beberapa jerawat yang menjadi jerawat raksasa. Nyatanya jerawat ini biasanya hanya satu dan membengkak akibat infeksi bakteri di lapisan teratas kulit sehingga membentuk kista yang berisi nanah.",
-      "img": "https://image.ibb.co/cexrRK/a_h_nasution.jpg"
+      "penjelasan": "Jerawat batu atau kistik merupakan jenis jerawat yang terjadi akibat Infeksi bakteri di lapisan teratas kulit. Jika peradangan di jaringan kulit terjadi, benjolan besar pun terbentuk.\n\nUkuran jerawat yang bengkak dapat terus bertambah karena dipengaruhi oleh infeksi bakteri di lapisan teratas kulit. Akibatnya, jerawat kistik tampak memerah, lebih besar, dan berisi nanah pula.\n\nHampir mirip dengan jerawat nodul, jerawat kistik juga menimbulkan rasa sakit yang tak tertahankan. Bila tidak segera ditangani, peradangan akan memecah pori-pori yang dapat menyebar ke jaringan kulit sekitarnya.\n\nPeradangan yang menyebar luas akhirnya memicu jerawat batu yang baru.\n\nMirip dengan jenis jerawat nodul, jerawat kistik juga pasti menyebabkan nyeri dan sakit yang tak tertahankan dan akan membekas jika sering dipegang-pegang. Peradangan yang menyebar akan memicu munculnya jerawat kista yang baru lho! Jadi sebaiknya kamu segera berkonsultasi dengan dokter kulit untuk mengatasi jerawat ini.",
+      "img": "https://i.ibb.co/2s8bQpd/cystic.jpg"
     }
   ]
 }

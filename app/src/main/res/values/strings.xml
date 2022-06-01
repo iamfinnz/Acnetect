@@ -16,7 +16,6 @@
     <string name="default_text">-</string>
     <string name="logout">Logout</string>
     <string name="change_language">Change Language</string>
-    <string name="user_profile">User Profile</string>
     <string name="error">Error</string>
     <string name="success">Success</string>
     <string name="please_wait">Please wait...</string>
@@ -39,7 +38,7 @@
     <string name="please_field_your_password">Please field your password</string>
     <string name="from">from</string>
     <string name="icorporation">C22-PC381</string>
-    <string name="deskripsi">Deskripsi :</string>
+    <string name="deskripsi">Description:</string>
     <string name="penjelasan_jerawat">Penjelasan Jerawat</string>
     <string name="solusi">Solusi</string>
     <string name="penyebab">Penyebab</string>
@@ -47,4 +46,6 @@
     <string name="don_t_have_an_account_register">Don\'t have an account? Register</string>
     <string name="have_an_account_login">Have an account? Login</string>
     <string name="welcome_to_acnetect">Welcome To Acnetect!</string>
+    <string name="user_profile">User Profile</string>
+    <string name="detail_article">Detail Acne</string>
 </resources>

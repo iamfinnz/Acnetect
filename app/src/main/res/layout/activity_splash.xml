@@ -11,9 +11,9 @@
 
     <ImageView
         android:layout_width="match_parent"
-        android:layout_height="200dp"
+        android:layout_height="140dp"
         android:src="@drawable/acnetect_splash"
-        android:layout_marginTop="220dp"/>
+        android:layout_marginTop="280dp"/>
 
     <TextView
         android:layout_width="wrap_content"
@@ -22,7 +22,7 @@
         android:fontFamily="@font/gilroyregular"
         android:textColor="@color/colorPrimary"
         android:textSize="@dimen/h6"
-        android:layout_marginTop="220dp"/>
+        android:layout_marginTop="280dp"/>
 
     <TextView
         android:layout_width="wrap_content"

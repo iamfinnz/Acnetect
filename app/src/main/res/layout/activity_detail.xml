@@ -16,7 +16,9 @@
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            app:navigationIcon="@drawable/ic_back">
+            android:background="@android:color/transparent"
+            app:navigationIcon="@drawable/ic_back"
+            app:tint="@android:color/darker_gray">
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -27,8 +29,9 @@
                     android:id="@+id/tvAcne"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Acne"
-                    android:textColor="@android:color/black"
+                    android:text="@string/detail_article"
+                    android:textColor="@color/colorPrimary"
+                    android:fontFamily="@font/gilroybold"
                     android:textSize="16sp"
                     android:textStyle="bold" />
 
@@ -48,7 +51,7 @@
             android:layout_height="match_parent">
 
             <LinearLayout
-                android:layout_width="wrap_content"
+                android:layout_width="220dp"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="-12dp"
                 android:orientation="vertical">
@@ -69,6 +72,7 @@
                         android:gravity="center_vertical"
                         android:padding="10dp"
                         android:text="@string/nama_acne"
+                        android:fontFamily="@font/gilroybold"
                         android:textColor="#ffec2d2d"
                         android:textSize="12sp" />
 
@@ -91,6 +95,7 @@
                         android:padding="10dp"
                         android:text="@string/penyebab"
                         android:textColor="#ff2a7e2f"
+                        android:fontFamily="@font/gilroyregular"
                         android:textSize="12sp" />
 
                 </androidx.cardview.widget.CardView>
@@ -111,6 +116,7 @@
                         android:gravity="center_vertical"
                         android:padding="10dp"
                         android:text="@string/solusi"
+                        android:fontFamily="@font/gilroyregular"
                         android:textColor="#2196F3"
                         android:textSize="12sp" />
 
@@ -175,6 +181,7 @@
                             android:paddingLeft="10dp"
                             android:paddingRight="10dp"
                             android:text="@string/deskripsi"
+                            android:fontFamily="@font/gilroybold"
                             android:textColor="@color/white"
                             android:textSize="18sp"
                             android:textStyle="bold" />
@@ -182,11 +189,12 @@
                         <TextView
                             android:id="@+id/tvPenjelasan"
                             android:layout_width="match_parent"
-                            android:layout_height="260dp"
+                            android:layout_height="wrap_content"
                             android:layout_marginTop="10dp"
                             android:paddingLeft="10dp"
                             android:paddingRight="10dp"
                             android:text="@string/penjelasan_jerawat"
+                            android:fontFamily="@font/gilroyregular"
                             android:textColor="@color/white"
                             android:textSize="14sp" />
 

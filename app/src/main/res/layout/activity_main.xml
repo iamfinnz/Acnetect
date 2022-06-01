@@ -138,11 +138,11 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_alignParentStart="true"
-                    android:text="Popular Article"
+                    android:fontFamily="@font/gilroyregular"
+                    android:text="Getting know acne type"
                     android:textColor="@android:color/black"
                     android:textSize="16dp"
-                    android:textStyle="bold"
-                    android:fontFamily="@font/gilroyregular"/>
+                    android:textStyle="bold" />
 
                 <TextView
                     android:layout_width="wrap_content"
