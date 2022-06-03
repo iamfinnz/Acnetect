@@ -20,43 +20,26 @@
         android:padding="5dp">
 
         <androidx.appcompat.widget.AppCompatImageView
-            android:id="@+id/imageAcne"
-            android:layout_width="@dimen/large_250"
-            android:layout_height="@dimen/large_250"
+            android:id="@+id/li_image_acne"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_marginStart="@dimen/small_50"
+            android:layout_marginEnd="@dimen/small_50"
+            android:layout_marginTop="@dimen/small_50"
+            android:layout_marginBottom="@dimen/small_50"
             tools:srcCompat="@drawable/dummy_image" />
 
         <androidx.appcompat.widget.AppCompatTextView
-            android:id="@+id/tvNamaAcne"
+            android:id="@+id/li_tv_nama_acne"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
             android:fontFamily="@font/gilroybold"
             android:gravity="center"
+            android:textColor="@color/black"
             android:text="Blackhead"
             android:textSize="16sp"
             android:textStyle="bold" />
-
-        <androidx.appcompat.widget.AppCompatTextView
-            android:id="@+id/tvPenyebab"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="5dp"
-            android:fontFamily="@font/gilroyregular"
-            android:gravity="center"
-            android:text="MBBS, DNB-Orthology"
-            android:textSize="12sp"
-            android:textStyle="normal"/>
-
-        <androidx.appcompat.widget.AppCompatTextView
-            android:id="@+id/tvSolusi"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="5dp"
-            android:fontFamily="@font/gilroyregular"
-            android:gravity="center"
-            android:text="MBBS, DNB-Orthology"
-            android:textSize="12sp"
-            android:textStyle="normal"/>
 
     </LinearLayout>
 

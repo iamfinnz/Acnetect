@@ -12,7 +12,7 @@
     <string name="new_password">New Password</string>
     <string name="old_password">Old Password</string>
     <string name="confirm_new_password">Confirm New Password</string>
-    <string name="hello">Hello</string>
+    <string name="hello">Hello,</string>
     <string name="default_text">-</string>
     <string name="logout">Logout</string>
     <string name="change_language">Change Language</string>
@@ -48,4 +48,5 @@
     <string name="welcome_to_acnetect">Welcome To Acnetect!</string>
     <string name="user_profile">User Profile</string>
     <string name="detail_article">Detail Acne</string>
+    <string name="getting_know_acne_type">Getting know acne type</string>
 </resources>

@@ -153,7 +153,7 @@
                         android:layout_marginStart="20dp"
                         android:layout_marginTop="-70dp"
                         android:layout_marginBottom="50dp"
-                        app:cardBackgroundColor="#ffa000"
+                        app:cardBackgroundColor="@color/colorRed"
                         app:cardCornerRadius="5dp"
                         app:cardElevation="5dp"
                         app:cardUseCompatPadding="true">

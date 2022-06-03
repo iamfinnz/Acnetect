@@ -10,7 +10,7 @@ import android.view.View
 import android.view.WindowManager
 import androidx.appcompat.app.AppCompatActivity
 import com.bangkit.acnetect.R
-import com.bangkit.acnetect.model.ModelMain
+import com.bangkit.acnetect.model.Article
 import com.bumptech.glide.Glide
 import kotlinx.android.synthetic.main.activity_detail.*
 import kotlinx.android.synthetic.main.activity_detail.tvNamaAcne
@@ -22,7 +22,7 @@ class DetailActivity : AppCompatActivity() {
     lateinit var penyebab: String
     lateinit var solusi: String
     lateinit var penjelasan: String
-    lateinit var modelMain: ModelMain
+    lateinit var article: Article
 
     @SuppressLint("SetTextI18n")
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -47,15 +47,15 @@ class DetailActivity : AppCompatActivity() {
         supportActionBar?.setDisplayShowTitleEnabled(false)
 
         //get data intent
-        modelMain = intent.getSerializableExtra(DETAIL_ACNE) as ModelMain
-        if (modelMain != null) {
-            nama = modelMain.nama
-            penyebab = modelMain.penyebab
-            solusi = modelMain.solusi
-            penjelasan = modelMain.penjelasan
+        article = intent.getSerializableExtra(DETAIL_ACNE) as Article
+        if (article != null) {
+            nama = article.nama
+            penyebab = article.penyebab
+            solusi = article.solusi
+            penjelasan = article.penjelasan
 
             Glide.with(this)
-                .load(modelMain.image)
+                .load(article.image)
                 .into(imageAcneBig)
 
             tvNamaAcne.setText(nama)

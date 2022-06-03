@@ -138,7 +138,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_alignParentStart="true"
-                    android:fontFamily="@font/gilroyregular"
+                    android:fontFamily="@font/gilroybold"
                     android:text="Getting know acne type"
                     android:textColor="@android:color/black"
                     android:textSize="16dp"

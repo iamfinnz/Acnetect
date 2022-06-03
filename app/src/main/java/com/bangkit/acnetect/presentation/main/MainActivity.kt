@@ -11,9 +11,9 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.bangkit.acnetect.R
-import com.bangkit.acnetect.adapter.MainAdapter
+import com.bangkit.acnetect.adapter.ArticleAdapter
 import com.bangkit.acnetect.databinding.ActivityMainBinding
-import com.bangkit.acnetect.model.ModelMain
+import com.bangkit.acnetect.model.Article
 import com.bangkit.acnetect.model.User
 import com.bangkit.acnetect.presentation.user.UserActivity
 import com.bangkit.acnetect.utils.showDialogError
@@ -73,8 +73,8 @@ class MainActivity : AppCompatActivity() {
     }
 
     //Recyclerview
-    private var modelMain: MutableList<ModelMain> = ArrayList()
-    lateinit var mainAdapter: MainAdapter
+    private var article: MutableList<Article> = ArrayList()
+    lateinit var articleAdapter: ArticleAdapter
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -105,7 +105,7 @@ class MainActivity : AppCompatActivity() {
             }
 
             override fun onQueryTextChange(newText: String): Boolean {
-                mainAdapter.filter.filter(newText)
+                articleAdapter.filter.filter(newText)
                 return true
             }
         })
@@ -162,18 +162,18 @@ class MainActivity : AppCompatActivity() {
                 val jsonArray = jsonObject.getJSONArray("daftar_acne")
                 for (i in 0 until jsonArray.length()) {
                     val jsonObjectData = jsonArray.getJSONObject(i)
-                    val dataApi = ModelMain()
+                    val dataApi = Article()
                     dataApi.nama = jsonObjectData.getString("nama")
                     dataApi.penyebab = jsonObjectData.getString("penyebab")
                     dataApi.solusi = jsonObjectData.getString("solusi")
                     dataApi.image = jsonObjectData.getString("img")
                     dataApi.penjelasan = jsonObjectData.getString("penjelasan")
-                    modelMain.add(dataApi)
+                    article.add(dataApi)
                 }
-                mainAdapter = MainAdapter(this, modelMain)
+                articleAdapter = ArticleAdapter(this, article)
                 val manager = LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false)
                 rvAcne.layoutManager = manager
-                rvAcne.adapter = mainAdapter
+                rvAcne.adapter = articleAdapter
             } catch (e: JSONException) {
                 e.printStackTrace()
             }
