@@ -46,10 +46,10 @@ Soon
 
 ### ML Technologies
 Our project is built using Machine Learning Technology with Convolutional Neural Network algorithm. Here are the libraries used in our project:
-- Python
-- TensorFlow
-- Keras
-- NumPy
+* [Python](https://www.python.org/)
+* [TensorFlow](https://www.tensorflow.org/)
+* [Keras](https://keras.io/)
+* [NumPy](https://numpy.org/)
 
 ### Acne Classification
 We classify 3 types of acne disease, including:
@@ -68,8 +68,8 @@ Soon
 Soon
 
 ### MD Technologies
-- Kotlin
-- Camera
+* [Android Studio Native](https://developer.android.com/studio)
+* [Kotlin Programming Language](https://kotlinlang.org/)
 
 ### Download APK
 Soon
@@ -79,7 +79,7 @@ Soon
 Soon
 
 ### CC Technologies
-- Firebase
+* [Firebase](https://firebase.google.com/)
 
 ### How to Install
 Soon
